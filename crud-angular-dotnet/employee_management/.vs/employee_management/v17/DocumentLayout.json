@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\AIAC\\Auto-formation\\dot net angular\\crud-angular-dotnet\\employee_management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6A1E1B-430E-471F-BD62-36CE629356A6}|employee_management\\employee_management.csproj|d:\\aiac\\auto-formation\\dot net angular\\crud-angular-dotnet\\employee_management\\employee_management\\data\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA6A1E1B-430E-471F-BD62-36CE629356A6}|employee_management\\employee_management.csproj|solutionrelative:employee_management\\data\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6A1E1B-430E-471F-BD62-36CE629356A6}|employee_management\\employee_management.csproj|d:\\aiac\\auto-formation\\dot net angular\\crud-angular-dotnet\\employee_management\\employee_management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA6A1E1B-430E-471F-BD62-36CE629356A6}|employee_management\\employee_management.csproj|solutionrelative:employee_management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6A1E1B-430E-471F-BD62-36CE629356A6}|employee_management\\employee_management.csproj|d:\\aiac\\auto-formation\\dot net angular\\crud-angular-dotnet\\employee_management\\employee_management\\data\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA6A1E1B-430E-471F-BD62-36CE629356A6}|employee_management\\employee_management.csproj|solutionrelative:employee_management\\data\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6A1E1B-430E-471F-BD62-36CE629356A6}|employee_management\\employee_management.csproj|d:\\aiac\\auto-formation\\dot net angular\\crud-angular-dotnet\\employee_management\\employee_management\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA6A1E1B-430E-471F-BD62-36CE629356A6}|employee_management\\employee_management.csproj|solutionrelative:employee_management\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6A1E1B-430E-471F-BD62-36CE629356A6}|employee_management\\employee_management.csproj|d:\\aiac\\auto-formation\\dot net angular\\crud-angular-dotnet\\employee_management\\employee_management\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA6A1E1B-430E-471F-BD62-36CE629356A6}|employee_management\\employee_management.csproj|solutionrelative:employee_management\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6A1E1B-430E-471F-BD62-36CE629356A6}|employee_management\\employee_management.csproj|d:\\aiac\\auto-formation\\dot net angular\\crud-angular-dotnet\\employee_management\\employee_management\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DA6A1E1B-430E-471F-BD62-36CE629356A6}|employee_management\\employee_management.csproj|solutionrelative:employee_management\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\AIAC\\Auto-formation\\dot net angular\\crud-angular-dotnet\\employee_management\\employee_management\\appsettings.json",
+              "RelativeDocumentMoniker": "employee_management\\appsettings.json",
+              "ToolTip": "D:\\AIAC\\Auto-formation\\dot net angular\\crud-angular-dotnet\\employee_management\\employee_management\\appsettings.json",
+              "RelativeToolTip": "employee_management\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-11T23:08:40.227Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\AIAC\\Auto-formation\\dot net angular\\crud-angular-dotnet\\employee_management\\employee_management\\Program.cs",
+              "RelativeDocumentMoniker": "employee_management\\Program.cs",
+              "ToolTip": "D:\\AIAC\\Auto-formation\\dot net angular\\crud-angular-dotnet\\employee_management\\employee_management\\Program.cs",
+              "RelativeToolTip": "employee_management\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACUAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T14:16:47.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\AIAC\\Auto-formation\\dot net angular\\crud-angular-dotnet\\employee_management\\employee_management\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "employee_management\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\AIAC\\Auto-formation\\dot net angular\\crud-angular-dotnet\\employee_management\\employee_management\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "employee_management\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T00:59:23.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\AIAC\\Auto-formation\\dot net angular\\crud-angular-dotnet\\employee_management\\employee_management\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "employee_management\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\AIAC\\Auto-formation\\dot net angular\\crud-angular-dotnet\\employee_management\\employee_management\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "employee_management\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T00:26:28.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "D:\\AIAC\\Auto-formation\\dot net angular\\crud-angular-dotnet\\employee_management\\employee_management\\Data\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "employee_management\\Data\\EmployeeRepository.cs",
+              "ToolTip": "D:\\AIAC\\Auto-formation\\dot net angular\\crud-angular-dotnet\\employee_management\\employee_management\\Data\\EmployeeRepository.cs",
+              "RelativeToolTip": "employee_management\\Data\\EmployeeRepository.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAYwDwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T00:22:30.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\AIAC\\Auto-formation\\dot net angular\\crud-angular-dotnet\\employee_management\\employee_management\\Data\\Employee.cs",
+              "RelativeDocumentMoniker": "employee_management\\Data\\Employee.cs",
+              "ToolTip": "D:\\AIAC\\Auto-formation\\dot net angular\\crud-angular-dotnet\\employee_management\\employee_management\\Data\\Employee.cs",
+              "RelativeToolTip": "employee_management\\Data\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T23:16:26.543Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
